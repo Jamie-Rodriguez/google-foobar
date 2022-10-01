@@ -1,8 +1,9 @@
 #!/usr/bin/env python2.7
-from typing import List, Tuple, Dict, Optional
+from typing import List, Tuple, Optional
 from collections import deque
 
-def neighbors(map, coord): # type: (List[List[int]], Tuple[int, int]) -> List[Tuple[int, int]]
+def neighbors(map, coord):
+    # type: (List[List[int]], Tuple[int, int]) -> List[Tuple[int, int]]
     adjacent = []
 
     # The problem definition in Read-Me states:
