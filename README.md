@@ -35,4 +35,9 @@ Stage 3
 2. [The Grandest Staircase Of Them All](the-grandest-staircase-of-them-all)
 3. [Bomb, Baby!](bomb-baby)
 
-Will add Stages 4 & 5 when I have time to get around to completing them :)
+Stage 4
+=======
+1. [Escape Pods](escape-pods)
+2. [Running with Bunnies](running-with-bunnies)
+
+Will add Stage 5 when I have time to get around to completing them :)
