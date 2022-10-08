@@ -40,4 +40,6 @@ Stage 4
 1. [Escape Pods](escape-pods)
 2. [Running with Bunnies](running-with-bunnies)
 
-Will add Stage 5 when I have time to get around to completing them :)
+Stage 5
+=======
+[Disorderly Escape](disorderly-escape)
