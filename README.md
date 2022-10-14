@@ -43,3 +43,4 @@ Stage 4
 Stage 5
 =======
 [Disorderly Escape](disorderly-escape)
+[Expanding Nebula](expanding-nebula)
